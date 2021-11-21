@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishmaikhuri
-- 👀 I’m interested in python andnew Tech
+- 👀 I’m interested in python and new Technologies
 - 🌱 I’m currently learning Backend engineering
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ashishgehu@outlook.com
