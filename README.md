@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashishmaikhuri
-- 👀 I’m interested in python and new Technologies
-- 🌱 I’m currently learning Backend engineering
-- 💞️ I’m looking to collaborate on python projects
+- 👋 Hi, I’m @ashishmaikhuri!
+- 👀 I’m a Security Engineer passionate about protecting systems and data.
+- 🌱 I enjoy exploring new topics in cybersecurity to deepen my understanding and stay ahead in the field.
+- 💞️ I’m eager to collaborate on security-related projects and contribute to impactful initiatives.
 - 📫 How to reach me ashishgehu@outlook.com
 
 <!---
